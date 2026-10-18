@@ -1,7 +1,7 @@
 ---
 title: "FreelanceFlow AI: 100% Private, Zero-Cost Invoice & Expense Copilot Powered by Local Gemma & Ollama"
 published: true
-tags: devchallenge, hf26challenge, python, opensource, ai
+tags: devchallenge, hf26challenge, python, opensource
 canonical_url: false
 ---
 
